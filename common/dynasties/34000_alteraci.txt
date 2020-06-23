@@ -15,18 +15,18 @@
 	}
 }
 34001 = {name = "Prestor" culture = alteraci}	# Historical dynasty of Alterac nobles based in Strahnbrad, extinct by 500s, but later appropriated by Black Dragonflight
-34002 = {name = "Falconcrest" culture = alteraci}	# Nobles based in Headland
-34003 = {name = "Ravenholdt" culture = alteraci}	# Nobles based in Ravenholdt
-34004 = {name = "Vardus" culture = alteraci}	# Petty nobles based in Strahnbrad, controllers of the duchy post-Third War
-34005 = {name = "Dandred" culture = alteraci}	# Nobles based in Dandred
+34002 = {name = "Falconcrest" culture = alteraci}	# Nobles based in Headland, family of Willichar
+34003 = {name = "Ravenholdt" culture = alteraci}	# Nobles based in Ravenholdt, family of Jorach
+34004 = {name = "Vardus" culture = alteraci}	# Petty nobles based in Strahnbrad, controllers of the duchy post-Third War as Syndicate's designated governors
+34005 = {name = "Dandred" culture = alteraci}	# Nobles based in Dandred, family of Aliden's mistress, Elysa
 34006 = {name = "Mordis" culture = alteraci}	# Barons of the Mordis Barony, family of Valimar
-34007 = {name = "Hath" culture = alteraci}	# General of Alterac
-34008 = {name = "Lorn" culture = alteraci} # Petty nobles, family of Vyral
-34009 = {name = "Murdoch" culture = alteraci}
-34010 = {name = "Clifford" culture = alteraci}
-34011 = {name = "Huxley" culture = alteraci}
-34012 = {name = "Clapham" culture = alteraci}
-34013 = {name = "Smithy" culture = alteraci}
+34007 = {name = "Hath" culture = alteraci}	# Petty nobles, family of an Alteraci general under Aiden Perenolde, rulers of Strahnbrad under Alliance occupation
+34008 = {name = "Lorn" culture = alteraci} # Petty nobles, family of Twilight Lord, Vyral the Vile
+34009 = {name = "Bloodhill" culture = alteraci} # Petty nobles, family of Menag the Wizard, Perenolde loyalists
+34010 = {name = "Stormbringer" culture = alteraci} # Family of Pai, former disciple of Ravenholdt, later Kel'Thuzad's enforcer (RPG lore)
+34011 = {name = "Naris" culture = alteraci} # Family of Aretain, an Alteraci paladin and later independent warlord (RPG lore)
+34012 = {name = "Montrose" culture = alteraci} # Family of Darbel the Warlock, rulers of Strahnbrad between Prestor and Occupation period (expanded in-house lore based on canon character)
+34013 = {name = "Ryson" culture = alteraci} # Perenolde loyalists, later warlords of Syndicate
 34014 = {name = "Hildom" culture = alteraci}
 34015 = {name = "Fawcett" culture = alteraci}
 34016 = {name = "Royal" culture = alteraci}
