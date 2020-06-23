@@ -14,14 +14,14 @@
 		}
 	}
 }
-34001 = {name = "Prestor" culture = alteraci}
-34002 = {name = "Falconcrest" culture = alteraci}
-34003 = {name = "Raven" culture = alteraci}
-34004 = {name = "Mordis" culture = alteraci}
-34005 = {name = "Carlton" culture = alteraci}
-34006 = {name = "Hayes" culture = alteraci}
-34007 = {name = "Whitley" culture = alteraci}
-34008 = {name = "Smyth" culture = alteraci}
+34001 = {name = "Prestor" culture = alteraci}	# Historical dynasty of Alterac nobles based in Strahnbrad, extinct by 500s, but later appropriated by Black Dragonflight
+34002 = {name = "Falconcrest" culture = alteraci}	# Nobles based in Headland
+34003 = {name = "Ravenholdt" culture = alteraci}	# Nobles based in Ravenholdt
+34004 = {name = "Vardus" culture = alteraci}	# Petty nobles based in Strahnbrad, controllers of the duchy post-Third War
+34005 = {name = "Dandred" culture = alteraci}	# Nobles based in Dandred
+34006 = {name = "Mordis" culture = alteraci}	# Barons of the Mordis Barony, family of Valimar
+34007 = {name = "Hath" culture = alteraci}	# General of Alterac
+34008 = {name = "Lorn" culture = alteraci} # Petty nobles, family of Vyral
 34009 = {name = "Murdoch" culture = alteraci}
 34010 = {name = "Clifford" culture = alteraci}
 34011 = {name = "Huxley" culture = alteraci}
@@ -83,5 +83,3 @@
 34068 = {name = "Lancaster" culture = alteraci}
 34069 = {name = "Yorker" culture = alteraci}
 34070 = {name = "Cameron" culture = alteraci}
-
-34071 = {name = "Lorn" culture = alteraci} # Lore dynasty of Vyral
